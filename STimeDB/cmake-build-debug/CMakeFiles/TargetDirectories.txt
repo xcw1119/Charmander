@@ -1,0 +1,3 @@
+/home/xcw/CLionProjects/STimeDB/cmake-build-debug/CMakeFiles/STimeDB.dir
+/home/xcw/CLionProjects/STimeDB/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xcw/CLionProjects/STimeDB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
